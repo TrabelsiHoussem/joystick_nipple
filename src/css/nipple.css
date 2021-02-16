@@ -1,0 +1,6 @@
+#zone_joystick {
+  position: relative;
+  background: silver;
+  box-sizing: content-box;
+  height: 450px;
+}
